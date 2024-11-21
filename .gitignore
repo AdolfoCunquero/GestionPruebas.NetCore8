@@ -1,0 +1,5 @@
+tests/WebApi.Tests/bin
+tests/WebApi.Tests/obj
+
+src/WebApi/bin
+src/WebApi/obj
