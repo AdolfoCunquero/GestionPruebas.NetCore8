@@ -9,6 +9,6 @@ public class TestProducts
     {
         var service = new CalculadoraService();
         var resultado = service.Sumar(1, 1);
-        Assert.Equal(2, resultado);
+        Assert.Equal(4, resultado);
     }
 }
